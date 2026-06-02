@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
-[![KDD 2026](https://img.shields.io/badge/KDD-2026-7b3fe4.svg)](https://kdd.org/)
+[![KDD 2026](https://img.shields.io/badge/KDD-2026-7b3fe4.svg)]([https://kdd.org/](https://kdd2026.kdd.org/))
 
 *Code release for the KDD 2026 submission.*
 [English](README.md) · [中文说明](README_CN.md)
