@@ -1,9 +1,7 @@
 <div align="center">
 
-# PRIME: Beyond Black Boxes
-### An Energy-Based Unified Framework for Interpretable Stock Selection
-
-**P**otential **R**obust **I**ntegrated **M**acro **E**nergy
+# Beyond Black Boxes An Energy-Based Unified Framework for Interpretable Stock Selection
+### PRIME (Potential Robust Integrated Macro Energy)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
