@@ -1,0 +1,30 @@
+# ============================================================================
+#  PRIME — core runtime dependencies
+# ============================================================================
+# Tested with Python 3.10–3.13. Version floors below are conservative; newer
+# releases are expected to work. Install with:  pip install -r requirements.txt
+# ----------------------------------------------------------------------------
+
+# --- Deep learning ----------------------------------------------------------
+torch>=2.0
+
+# --- Scientific stack -------------------------------------------------------
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.2
+
+# --- I/O --------------------------------------------------------------------
+pyarrow>=12.0          # fast Parquet panel read/write
+tqdm>=4.64
+
+# --- Visualization (figures & diagnostics) ----------------------------------
+matplotlib>=3.6
+seaborn>=0.12
+
+# --- Risk Guardian gradient-boosting backend --------------------------------
+# LightGBM is the backend reported in the paper. It is OPTIONAL: if it is not
+# installed, the Risk Guardian transparently falls back to a scikit-learn
+# RandomForest / MLP classifier. Install it for full paper reproduction.
+lightgbm>=3.3
+# xgboost>=1.7         # optional alternative GBDT backend (auto-detected)

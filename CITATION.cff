@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "PRIME: An Energy-Based Unified Framework for Interpretable Stock Selection"
+abstract: >-
+  PRIME (Potential Robust Integrated Macro Energy) grounds return generation and
+  tail-risk control in energy-based modeling and game theory. A semantic encoder
+  decomposes market forces into bullish momentum, bearish resistance, and frictional
+  dissipation; a macro-aware modulation mechanism reshapes the energy landscape across
+  bull-bear transitions; potential-game aggregation yields stable ranking under
+  distributional shift; and a Risk Guardian module filters crash signals from
+  portfolio construction.
+authors:
+  - name: "Anonymous (KDD 2026 submission)"
+keywords:
+  - Machine Learning
+  - Interpretable Finance
+  - Energy-Based Models
+  - Game Theory
+  - Quantitative Stock Selection
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Beyond Black Boxes: An Energy-Based Unified Framework for Interpretable Stock Selection"
+  year: 2026
+  collection-title: "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
+  authors:
+    - name: "Anonymous"
